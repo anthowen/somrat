@@ -83,17 +83,17 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
+icon = "fa-keybase"
+link = "https://keybase.io/anthowen"
+[[params.social]]
 icon = "fa-facebook-f"
 link = "https://www.facebook.com/somrat.mac"
 [[params.social]]
 icon = "fa-twitter"
 link = "https://twitter.com/anthowen03"
 [[params.social]]
-icon = "fa-instagram"
-link = "https://www.instagram.com/somrat_sorkar/"
-[[params.social]]
 icon = "fa-github"
-link = "https://github.com/Somrat37"
+link = "https://github.com/anthowen"
 [[params.social]]
 icon = "fa-linkedin"
 link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
